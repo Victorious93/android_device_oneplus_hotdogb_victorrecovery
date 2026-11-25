@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.svg" width="420" alt="hotdogb VictorRecovery logo"/>
+
 # android_device_oneplus_hotdogb_victorrecovery
 
 **VictorRecovery device tree for the OnePlus 7T (hotdogb): untested, experimental.**
